@@ -1,0 +1,11 @@
+C:\Users\cjafk2\source\repos\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.deps.json
+C:\Users\cjafk2\source\repos\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.runtimeconfig.json
+C:\Users\cjafk2\source\repos\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.runtimeconfig.dev.json
+C:\Users\cjafk2\source\repos\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.dll
+C:\Users\cjafk2\source\repos\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.pdb
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.csprojResolveAssemblyReference.cache
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.csproj.CoreCompileInputs.cache
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.AssemblyInfoInputs.cache
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.AssemblyInfo.cs
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.dll
+C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.pdb
