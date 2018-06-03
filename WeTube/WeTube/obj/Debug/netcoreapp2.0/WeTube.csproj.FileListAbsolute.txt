@@ -9,3 +9,14 @@ C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.Assemb
 C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.AssemblyInfo.cs
 C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.dll
 C:\Users\cjafk2\source\repos\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.pdb
+E:\Github\WeTube2\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.deps.json
+E:\Github\WeTube2\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.runtimeconfig.json
+E:\Github\WeTube2\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.runtimeconfig.dev.json
+E:\Github\WeTube2\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.dll
+E:\Github\WeTube2\WeTube\WeTube\bin\Debug\netcoreapp2.0\WeTube.pdb
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.csprojResolveAssemblyReference.cache
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.csproj.CoreCompileInputs.cache
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.AssemblyInfoInputs.cache
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.AssemblyInfo.cs
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.dll
+E:\Github\WeTube2\WeTube\WeTube\obj\Debug\netcoreapp2.0\WeTube.pdb

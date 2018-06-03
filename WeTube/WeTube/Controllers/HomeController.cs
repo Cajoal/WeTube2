@@ -14,9 +14,9 @@ namespace WeTube.Controllers
 
         public IActionResult Index()
         {
-            System.Console.WriteLine("testing blobController");
+            //System.Console.WriteLine("testing blobController");
 
-            blobsController = new BlobsController();
+            //blobsController = new BlobsController();
 
             return View();
         }

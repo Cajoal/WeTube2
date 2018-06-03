@@ -13132,11 +13132,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\cjafk2\\source\\repos\\WeTube\\WeTube\\WeTube.csproj",
+      "projectUniqueName": "E:\\Github\\WeTube2\\WeTube\\WeTube\\WeTube.csproj",
       "projectName": "WeTube",
-      "projectPath": "C:\\Users\\cjafk2\\source\\repos\\WeTube\\WeTube\\WeTube.csproj",
+      "projectPath": "E:\\Github\\WeTube2\\WeTube\\WeTube\\WeTube.csproj",
       "packagesPath": "C:\\Users\\cjafk2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cjafk2\\source\\repos\\WeTube\\WeTube\\obj\\",
+      "outputPath": "E:\\Github\\WeTube2\\WeTube\\WeTube\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
